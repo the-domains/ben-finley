@@ -2,16 +2,37 @@
     <channel>
         <title><![CDATA[Ben Finley]]></title>
         <description><![CDATA[Ben Finley]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ben-finley/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 21:13:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 20 Aug 2016 06:16:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ben-finley/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3cd26c9-9449-4043-9bb1-2dcfb400c13f.jpg">]]></description>
-            <link>undefinedd0b0514d-a08b-4183-bf01-db62e2407cc1/index.html</link>
+            <link>https://thegrid.ai/ben-finley/d0b0514d-a08b-4183-bf01-db62e2407cc1/index.html</link>
             <guid isPermaLink="false">d0b0514d-a08b-4183-bf01-db62e2407cc1</guid>
-            <pubDate>Wed, 18 May 2016 21:12:56 GMT</pubDate>
+            <pubDate>Sat, 20 Aug 2016 06:16:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2978545a-57d6-4357-9a10-3ebc641cc484.jpg">]]></description>
+            <link>https://thegrid.ai/ben-finley/2f3a570c-4851-4c71-8d32-ffc87d9c0282/index.html</link>
+            <guid isPermaLink="false">2f3a570c-4851-4c71-8d32-ffc87d9c0282</guid>
+            <pubDate>Sat, 20 Aug 2016 06:05:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/322b5162-d131-4e49-ae67-5b7d6d8ae6b0.jpg">]]></description>
+            <link>https://thegrid.ai/ben-finley/cb820485-0426-4efd-84b9-25acc5c23d83/index.html</link>
+            <guid isPermaLink="false">cb820485-0426-4efd-84b9-25acc5c23d83</guid>
+            <pubDate>Sat, 20 Aug 2016 06:02:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2978545a-57d6-4357-9a10-3ebc641cc484.jpg">]]></description>
+            <link>https://thegrid.ai/ben-finley/5f08c12b-4d46-4470-b91d-d6acc121b991/index.html</link>
+            <guid isPermaLink="false">5f08c12b-4d46-4470-b91d-d6acc121b991</guid>
+            <pubDate>Sat, 20 Aug 2016 06:02:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
