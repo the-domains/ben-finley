@@ -1,4 +1,3 @@
-layout_spectrum: 0.9111326029524207
 typography_spectrum: 0.635021586669609
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.9111326029524207
 analytics:
   google: null
   facebook: null
@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Ben and Kat
+    id: d0b0514d-a08b-4183-bf01-db62e2407cc1
+    type: content
 favicon: null
 title: Ben Finley
 description: ''
